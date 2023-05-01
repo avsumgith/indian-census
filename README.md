@@ -1,2 +1,2 @@
-# indian-census
+# Indian_Census_SQL_Project
 SQL_Portfolio_project
